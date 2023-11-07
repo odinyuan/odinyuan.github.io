@@ -4,8 +4,8 @@ layout: default
 <!-- _layouts/cv.html -->
 {% unless site.data.resume %}
 <div class="post">
-
-  <header class="post-header">
+  <object data="../assets/pdf/Resume Yijun Yuan_2023.pdf" width="750" height="1000" type='application/pdf'></object>
+  <!-- <header class="post-header">
     <h1 class="post-title">{{ page.title }} {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
       {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
   </header>
@@ -34,7 +34,7 @@ layout: default
         </div>
       {% endfor %}
       </div>
-  </article>
+  </article> -->
 
 </div>
 {% else %}

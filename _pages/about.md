@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student in Information Science at University of Pittsburgh.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>410 IS Building</p>
+    <p>135 N Bellefield Ave</p>
+    <p>Pittsburgh, PA</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Hey I am Yijun Yuan. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Yijun Yuan, a first year PhD student at University of Pittsburgh supervised by Dr. Balaji Palanisamy. My interest is in security and privacy issues in XR environment, and I aim to improve the usability of current XR applications as well as solve some privacy concerns from users' perspective. In particular, I think there are still many interesting questions when we are trying to migrate some of our settings on PC/mobile to XR context. At current stage, I am actively exploring the area I care about and reaching out to meet people that have similiar interests.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before my PhD study, I earned my Master's degree in Information Science at University of Pittsburgh and my Bacholor's degree in Computer Science at Xiamen University.
